@@ -1,6 +1,3 @@
-Here’s a clean **README.md** file for your **Wikipedia Search Web App**:
-
----
 
 # 🔎 Wikipedia Search App
 
