@@ -39,9 +39,9 @@ It fetches data from a Wikipedia API and displays real-time search results with 
 
 ```
 wikipedia-search/
-├── wikipedia.html        # Main application file
-├── wikipedia.css     # Custom styles
-├── wikipedia.js      # JavaScript
+├── index.html        # Main application file
+├── style.css     # Custom styles
+├── script.js      # JavaScript
 ```
 
 ---
