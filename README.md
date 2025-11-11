@@ -4,6 +4,9 @@
 A simple **Wikipedia Search Web App** built with **HTML, CSS, Bootstrap, and JavaScript**.
 It fetches data from a Wikipedia API and displays real-time search results with links, titles, and descriptions.
 
+To view the site click on - https://wikipedia-clone-coral.vercel.app/
+
+
 ---
 
 ## 🚀 Features
@@ -63,7 +66,7 @@ wikipedia-search/
 1. Clone the repo or download the files.
 
    ```bash
-   git clone https://github.com/your-username/wikipedia-search-app.git
+   https://github.com/Dhanunjay2704/Wikipedia-Clone.git
    cd wikipedia-search-app
    ```
 
